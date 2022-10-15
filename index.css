@@ -1,0 +1,26 @@
+body{
+    background-image: url(/img/rhaetian-172758_1920.jpg);
+    
+   text-align: center;
+
+}
+
+
+button{
+
+    border: none;
+    padding: 10px 10px;
+    color: white(225, 53, 53);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+
+
+}
+
+#increment-btn{
+    background-color: rgb(154, 15, 15);
+    color: white;
+}
