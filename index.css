@@ -29,3 +29,14 @@ button{
     color: white;
     
 }
+#total-btn{
+    background: rgb(44, 42, 165);
+    color: antiquewhite;
+}
+#decrement-btn
+{
+    background-color: yellow;
+    ;
+    color: black;
+    
+}
